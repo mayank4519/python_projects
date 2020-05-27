@@ -1,0 +1,5 @@
+Joey,30,DRAMA,HOLLYWOOD
+Monica,27,MA,MIT
+Chandler,28,MA,MIT
+Ross,29,MA,MIT
+Rachel,27,MA,MIT
