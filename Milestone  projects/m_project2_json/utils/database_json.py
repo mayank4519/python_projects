@@ -1,4 +1,5 @@
 import json
+
 books_file = 'books.json'
 
 def create_book_table():
